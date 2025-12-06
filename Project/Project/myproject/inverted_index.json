@@ -1,0 +1,6870 @@
+{
+    "quotes": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.08503552140035041
+        },
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.090966100593263
+        },
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.07343316126127392
+        },
+        {
+            "doc_id": "downloaded_page_12.html",
+            "tfidf": 0.3218721681148936
+        },
+        {
+            "doc_id": "downloaded_page_13.html",
+            "tfidf": 0.20697088071786765
+        },
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.0573491064829406
+        },
+        {
+            "doc_id": "downloaded_page_15.html",
+            "tfidf": 0.18728638019620605
+        },
+        {
+            "doc_id": "downloaded_page_16.html",
+            "tfidf": 0.16994476783548673
+        },
+        {
+            "doc_id": "downloaded_page_17.html",
+            "tfidf": 0.26861306223567827
+        },
+        {
+            "doc_id": "downloaded_page_18.html",
+            "tfidf": 0.29522041904272356
+        },
+        {
+            "doc_id": "downloaded_page_19.html",
+            "tfidf": 0.2583090680465378
+        },
+        {
+            "doc_id": "downloaded_page_2.html",
+            "tfidf": 0.20697088071786765
+        },
+        {
+            "doc_id": "downloaded_page_20.html",
+            "tfidf": 0.279601398782323
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.06609328859958097
+        },
+        {
+            "doc_id": "downloaded_page_4.html",
+            "tfidf": 0.13904510903781903
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.132155550710699
+        },
+        {
+            "doc_id": "downloaded_page_6.html",
+            "tfidf": 0.11734057994552768
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.051933936283266625
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.06843515813893161
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.08803980718712413
+        }
+    ],
+    "scrape": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.05669034760023361
+        },
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.0454830502966315
+        },
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.04895544084084928
+        },
+        {
+            "doc_id": "downloaded_page_12.html",
+            "tfidf": 0.21458144540992907
+        },
+        {
+            "doc_id": "downloaded_page_13.html",
+            "tfidf": 0.1379805871452451
+        },
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.03823273765529373
+        },
+        {
+            "doc_id": "downloaded_page_15.html",
+            "tfidf": 0.12485758679747071
+        },
+        {
+            "doc_id": "downloaded_page_16.html",
+            "tfidf": 0.1132965118903245
+        },
+        {
+            "doc_id": "downloaded_page_17.html",
+            "tfidf": 0.1790753748237855
+        },
+        {
+            "doc_id": "downloaded_page_18.html",
+            "tfidf": 0.19681361269514905
+        },
+        {
+            "doc_id": "downloaded_page_19.html",
+            "tfidf": 0.17220604536435852
+        },
+        {
+            "doc_id": "downloaded_page_2.html",
+            "tfidf": 0.1379805871452451
+        },
+        {
+            "doc_id": "downloaded_page_20.html",
+            "tfidf": 0.18640093252154866
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.044062192399720645
+        },
+        {
+            "doc_id": "downloaded_page_4.html",
+            "tfidf": 0.09269673935854601
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.0660777753553495
+        },
+        {
+            "doc_id": "downloaded_page_6.html",
+            "tfidf": 0.07822705329701846
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.03462262418884442
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.04562343875928774
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.05869320479141609
+        }
+    ],
+    "login": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.028345173800116804
+        },
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.02274152514831575
+        },
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.02447772042042464
+        },
+        {
+            "doc_id": "downloaded_page_12.html",
+            "tfidf": 0.10729072270496454
+        },
+        {
+            "doc_id": "downloaded_page_13.html",
+            "tfidf": 0.06899029357262255
+        },
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.019116368827646866
+        },
+        {
+            "doc_id": "downloaded_page_15.html",
+            "tfidf": 0.062428793398735354
+        },
+        {
+            "doc_id": "downloaded_page_16.html",
+            "tfidf": 0.05664825594516225
+        },
+        {
+            "doc_id": "downloaded_page_17.html",
+            "tfidf": 0.08953768741189275
+        },
+        {
+            "doc_id": "downloaded_page_18.html",
+            "tfidf": 0.09840680634757452
+        },
+        {
+            "doc_id": "downloaded_page_19.html",
+            "tfidf": 0.08610302268217926
+        },
+        {
+            "doc_id": "downloaded_page_2.html",
+            "tfidf": 0.06899029357262255
+        },
+        {
+            "doc_id": "downloaded_page_20.html",
+            "tfidf": 0.09320046626077433
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.022031096199860323
+        },
+        {
+            "doc_id": "downloaded_page_4.html",
+            "tfidf": 0.046348369679273006
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.03303888767767475
+        },
+        {
+            "doc_id": "downloaded_page_6.html",
+            "tfidf": 0.03911352664850923
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.01731131209442221
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.02281171937964387
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.029346602395708046
+        }
+    ],
+    "world": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.11140111905928947
+        },
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.037565211184932
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.04329288626124399
+        },
+        {
+            "doc_id": "downloaded_page_4.html",
+            "tfidf": 0.09107829581950522
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.06492408700192853
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.03401812868219738
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.04482687395884544
+        }
+    ],
+    "created": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.09499531413370992
+        }
+    ],
+    "process": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.09499531413370992
+        }
+    ],
+    "thinking": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.1915648736174048
+        },
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.051231265701231855
+        },
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.0551425021163155
+        },
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.04306464778702207
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.03899828282238034
+        }
+    ],
+    "changed": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.09499531413370992
+        }
+    ],
+    "changing": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.09499531413370992
+        }
+    ],
+    "albert": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.17845659018407542
+        },
+        {
+            "doc_id": "downloaded_page_13.html",
+            "tfidf": 0.1447838778903262
+        },
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.040117846536411705
+        },
+        {
+            "doc_id": "downloaded_page_2.html",
+            "tfidf": 0.1447838778903262
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.04623472921785617
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.09574590923153821
+        }
+    ],
+    "einstein": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.17845659018407542
+        },
+        {
+            "doc_id": "downloaded_page_13.html",
+            "tfidf": 0.1447838778903262
+        },
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.040117846536411705
+        },
+        {
+            "doc_id": "downloaded_page_2.html",
+            "tfidf": 0.1447838778903262
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.04623472921785617
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.09574590923153821
+        }
+    ],
+    "tags": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.3117969118012848
+        },
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.25015677663147323
+        },
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.26925492462467104
+        },
+        {
+            "doc_id": "downloaded_page_12.html",
+            "tfidf": 0.21458144540992907
+        },
+        {
+            "doc_id": "downloaded_page_13.html",
+            "tfidf": 0.2759611742904902
+        },
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.21028005710411551
+        },
+        {
+            "doc_id": "downloaded_page_15.html",
+            "tfidf": 0.12485758679747071
+        },
+        {
+            "doc_id": "downloaded_page_16.html",
+            "tfidf": 0.16994476783548673
+        },
+        {
+            "doc_id": "downloaded_page_17.html",
+            "tfidf": 0.1790753748237855
+        },
+        {
+            "doc_id": "downloaded_page_18.html",
+            "tfidf": 0.19681361269514905
+        },
+        {
+            "doc_id": "downloaded_page_19.html",
+            "tfidf": 0.17220604536435852
+        },
+        {
+            "doc_id": "downloaded_page_2.html",
+            "tfidf": 0.2759611742904902
+        },
+        {
+            "doc_id": "downloaded_page_20.html",
+            "tfidf": 0.18640093252154866
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.24234205819846352
+        },
+        {
+            "doc_id": "downloaded_page_4.html",
+            "tfidf": 0.23174184839636502
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.16519443838837378
+        },
+        {
+            "doc_id": "downloaded_page_6.html",
+            "tfidf": 0.23468115989105537
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.1904244330386443
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.25092891317608257
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.23477281916566436
+        }
+    ],
+    "change": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.07534793683167734
+        },
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.05081566834035946
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.04601741585223942
+        }
+    ],
+    "deep": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.09499531413370992
+        }
+    ],
+    "thoughts": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.09499531413370992
+        }
+    ],
+    "choices": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.18999062826741983
+        }
+    ],
+    "harry": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.09499531413370992
+        }
+    ],
+    "truly": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.08350233517450086
+        },
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.07210916501226744
+        }
+    ],
+    "far": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.09499531413370992
+        }
+    ],
+    "abilities": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.18999062826741983
+        }
+    ],
+    "rowling": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.06385495787246827
+        },
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.04306464778702207
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.04963083767440436
+        },
+        {
+            "doc_id": "downloaded_page_4.html",
+            "tfidf": 0.10441189086359977
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.0744287826805436
+        }
+    ],
+    "ways": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.11897106012271695
+        },
+        {
+            "doc_id": "downloaded_page_16.html",
+            "tfidf": 0.11888272605813381
+        },
+        {
+            "doc_id": "downloaded_page_17.html",
+            "tfidf": 0.1879048911015221
+        },
+        {
+            "doc_id": "downloaded_page_19.html",
+            "tfidf": 0.18069686149229042
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.09246945843571235
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.047872954615769105
+        }
+    ],
+    "live": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.15069587366335468
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.1171273569536442
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.12127750586114051
+        }
+    ],
+    "life": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.11338069520046722
+        },
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.06822457544494726
+        },
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.02447772042042464
+        },
+        {
+            "doc_id": "downloaded_page_12.html",
+            "tfidf": 0.10729072270496454
+        },
+        {
+            "doc_id": "downloaded_page_13.html",
+            "tfidf": 0.20697088071786765
+        },
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.19116368827646865
+        },
+        {
+            "doc_id": "downloaded_page_15.html",
+            "tfidf": 0.062428793398735354
+        },
+        {
+            "doc_id": "downloaded_page_16.html",
+            "tfidf": 0.05664825594516225
+        },
+        {
+            "doc_id": "downloaded_page_17.html",
+            "tfidf": 0.08953768741189275
+        },
+        {
+            "doc_id": "downloaded_page_18.html",
+            "tfidf": 0.09840680634757452
+        },
+        {
+            "doc_id": "downloaded_page_19.html",
+            "tfidf": 0.08610302268217926
+        },
+        {
+            "doc_id": "downloaded_page_2.html",
+            "tfidf": 0.20697088071786765
+        },
+        {
+            "doc_id": "downloaded_page_20.html",
+            "tfidf": 0.09320046626077433
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.15421767339902226
+        },
+        {
+            "doc_id": "downloaded_page_4.html",
+            "tfidf": 0.046348369679273006
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.19823332606604852
+        },
+        {
+            "doc_id": "downloaded_page_6.html",
+            "tfidf": 0.11734057994552768
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.10386787256653325
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.45623438759287743
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.029346602395708046
+        }
+    ],
+    "miracle": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.22604381049503203
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.1756910354304663
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.18191625879171078
+        }
+    ],
+    "inspirational": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.11338069520046722
+        },
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.0454830502966315
+        },
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.02447772042042464
+        },
+        {
+            "doc_id": "downloaded_page_12.html",
+            "tfidf": 0.10729072270496454
+        },
+        {
+            "doc_id": "downloaded_page_13.html",
+            "tfidf": 0.06899029357262255
+        },
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.0573491064829406
+        },
+        {
+            "doc_id": "downloaded_page_15.html",
+            "tfidf": 0.062428793398735354
+        },
+        {
+            "doc_id": "downloaded_page_16.html",
+            "tfidf": 0.1132965118903245
+        },
+        {
+            "doc_id": "downloaded_page_17.html",
+            "tfidf": 0.1790753748237855
+        },
+        {
+            "doc_id": "downloaded_page_18.html",
+            "tfidf": 0.09840680634757452
+        },
+        {
+            "doc_id": "downloaded_page_19.html",
+            "tfidf": 0.17220604536435852
+        },
+        {
+            "doc_id": "downloaded_page_2.html",
+            "tfidf": 0.06899029357262255
+        },
+        {
+            "doc_id": "downloaded_page_20.html",
+            "tfidf": 0.09320046626077433
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.2643731543983239
+        },
+        {
+            "doc_id": "downloaded_page_4.html",
+            "tfidf": 0.046348369679273006
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.0660777753553495
+        },
+        {
+            "doc_id": "downloaded_page_6.html",
+            "tfidf": 0.03911352664850923
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.051933936283266625
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.09124687751857548
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.05869320479141609
+        }
+    ],
+    "miracles": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.07534793683167734
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.0585636784768221
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.06063875293057026
+        }
+    ],
+    "person": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.07534793683167734
+        },
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.060452160654038245
+        },
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.06506736367282441
+        }
+    ],
+    "gentleman": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.07534793683167734
+        },
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.060452160654038245
+        },
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.06506736367282441
+        }
+    ],
+    "lady": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.07534793683167734
+        },
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.060452160654038245
+        },
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.06506736367282441
+        }
+    ],
+    "pleasure": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.07534793683167734
+        },
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.060452160654038245
+        },
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.06506736367282441
+        }
+    ],
+    "good": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.04937551678526818
+        },
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.11884293579586049
+        },
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.04263865531418255
+        },
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.09989855026949586
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.03837678921586216
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.1726550168221827
+        },
+        {
+            "doc_id": "downloaded_page_6.html",
+            "tfidf": 0.1362666255062118
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.030155221023539378
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.11920975765466556
+        }
+    ],
+    "novel": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.07534793683167734
+        },
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.060452160654038245
+        },
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.06506736367282441
+        }
+    ],
+    "intolerably": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.07534793683167734
+        },
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.060452160654038245
+        },
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.06506736367282441
+        }
+    ],
+    "stupid": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.07534793683167734
+        },
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.060452160654038245
+        },
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.13013472734564882
+        }
+    ],
+    "jane": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.059485530061358476
+        },
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.0954512882786206
+        },
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.05136924487288549
+        },
+        {
+            "doc_id": "downloaded_page_6.html",
+            "tfidf": 0.08208412767770906
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.036329732294323326
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.0615871404182899
+        }
+    ],
+    "austen": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.059485530061358476
+        },
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.0954512882786206
+        },
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.05136924487288549
+        },
+        {
+            "doc_id": "downloaded_page_6.html",
+            "tfidf": 0.08208412767770906
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.036329732294323326
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.0615871404182899
+        }
+    ],
+    "aliteracy": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.07534793683167734
+        },
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.060452160654038245
+        },
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.06506736367282441
+        }
+    ],
+    "books": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.05669034760023361
+        },
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.3183813520764205
+        },
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.04895544084084928
+        },
+        {
+            "doc_id": "downloaded_page_12.html",
+            "tfidf": 0.10729072270496454
+        },
+        {
+            "doc_id": "downloaded_page_13.html",
+            "tfidf": 0.06899029357262255
+        },
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.0573491064829406
+        },
+        {
+            "doc_id": "downloaded_page_15.html",
+            "tfidf": 0.062428793398735354
+        },
+        {
+            "doc_id": "downloaded_page_16.html",
+            "tfidf": 0.05664825594516225
+        },
+        {
+            "doc_id": "downloaded_page_17.html",
+            "tfidf": 0.08953768741189275
+        },
+        {
+            "doc_id": "downloaded_page_18.html",
+            "tfidf": 0.09840680634757452
+        },
+        {
+            "doc_id": "downloaded_page_19.html",
+            "tfidf": 0.08610302268217926
+        },
+        {
+            "doc_id": "downloaded_page_2.html",
+            "tfidf": 0.06899029357262255
+        },
+        {
+            "doc_id": "downloaded_page_20.html",
+            "tfidf": 0.09320046626077433
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.044062192399720645
+        },
+        {
+            "doc_id": "downloaded_page_4.html",
+            "tfidf": 0.046348369679273006
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.132155550710699
+        },
+        {
+            "doc_id": "downloaded_page_6.html",
+            "tfidf": 0.11734057994552768
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.01731131209442221
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.06843515813893161
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.17607961437424827
+        }
+    ],
+    "classic": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.06902289408730078
+        },
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.16613260791042497
+        },
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.0596053182101345
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.14292291472721447
+        }
+    ],
+    "humor": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.08503552140035041
+        },
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.0454830502966315
+        },
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.29373264504509566
+        },
+        {
+            "doc_id": "downloaded_page_12.html",
+            "tfidf": 0.21458144540992907
+        },
+        {
+            "doc_id": "downloaded_page_13.html",
+            "tfidf": 0.1379805871452451
+        },
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.019116368827646866
+        },
+        {
+            "doc_id": "downloaded_page_15.html",
+            "tfidf": 0.062428793398735354
+        },
+        {
+            "doc_id": "downloaded_page_16.html",
+            "tfidf": 0.05664825594516225
+        },
+        {
+            "doc_id": "downloaded_page_17.html",
+            "tfidf": 0.08953768741189275
+        },
+        {
+            "doc_id": "downloaded_page_18.html",
+            "tfidf": 0.09840680634757452
+        },
+        {
+            "doc_id": "downloaded_page_19.html",
+            "tfidf": 0.08610302268217926
+        },
+        {
+            "doc_id": "downloaded_page_2.html",
+            "tfidf": 0.1379805871452451
+        },
+        {
+            "doc_id": "downloaded_page_20.html",
+            "tfidf": 0.09320046626077433
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.022031096199860323
+        },
+        {
+            "doc_id": "downloaded_page_4.html",
+            "tfidf": 0.09269673935854601
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.03303888767767475
+        },
+        {
+            "doc_id": "downloaded_page_6.html",
+            "tfidf": 0.03911352664850923
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.01731131209442221
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.02281171937964387
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.029346602395708046
+        }
+    ],
+    "imperfection": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.08350233517450086
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.06490162988998247
+        }
+    ],
+    "beauty": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.07534793683167734
+        },
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.06506736367282441
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.0585636784768221
+        }
+    ],
+    "madness": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.08350233517450086
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.06490162988998247
+        }
+    ],
+    "genius": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.08350233517450086
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.06490162988998247
+        }
+    ],
+    "better": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.13804578817460156
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.05364758143144028
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.042154508193581415
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.05554846485661334
+        }
+    ],
+    "absolutely": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.1670046703490017
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.12980325977996493
+        }
+    ],
+    "ridiculous": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.08350233517450086
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.06490162988998247
+        }
+    ],
+    "boring": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.08350233517450086
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.06490162988998247
+        }
+    ],
+    "marilyn": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.059485530061358476
+        },
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.040117846536411705
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.09246945843571235
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.06933581568429363
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.10898919688296997
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.047872954615769105
+        }
+    ],
+    "monroe": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.059485530061358476
+        },
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.040117846536411705
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.09246945843571235
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.06933581568429363
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.10898919688296997
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.047872954615769105
+        }
+    ],
+    "try": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.08350233517450086
+        },
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.07210916501226744
+        }
+    ],
+    "man": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.15069587366335468
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.04601741585223942
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.07800996244119163
+        }
+    ],
+    "success": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.18999062826741983
+        }
+    ],
+    "value": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.18999062826741983
+        }
+    ],
+    "adulthood": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.09499531413370992
+        }
+    ],
+    "hated": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.07534793683167734
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.04601741585223942
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.06063875293057026
+        }
+    ],
+    "loved": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.06902289408730078
+        },
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.04654997391192608
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.08430901638716283
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.05554846485661334
+        }
+    ],
+    "andr\u00e9": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.07534793683167734
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.04601741585223942
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.06063875293057026
+        }
+    ],
+    "gide": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.07534793683167734
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.04601741585223942
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.06063875293057026
+        }
+    ],
+    "love": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.05669034760023361
+        },
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.02274152514831575
+        },
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.07343316126127392
+        },
+        {
+            "doc_id": "downloaded_page_12.html",
+            "tfidf": 0.10729072270496454
+        },
+        {
+            "doc_id": "downloaded_page_13.html",
+            "tfidf": 0.06899029357262255
+        },
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.1720473194488218
+        },
+        {
+            "doc_id": "downloaded_page_15.html",
+            "tfidf": 0.062428793398735354
+        },
+        {
+            "doc_id": "downloaded_page_16.html",
+            "tfidf": 0.1132965118903245
+        },
+        {
+            "doc_id": "downloaded_page_17.html",
+            "tfidf": 0.08953768741189275
+        },
+        {
+            "doc_id": "downloaded_page_18.html",
+            "tfidf": 0.09840680634757452
+        },
+        {
+            "doc_id": "downloaded_page_19.html",
+            "tfidf": 0.08610302268217926
+        },
+        {
+            "doc_id": "downloaded_page_2.html",
+            "tfidf": 0.06899029357262255
+        },
+        {
+            "doc_id": "downloaded_page_20.html",
+            "tfidf": 0.09320046626077433
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.08812438479944129
+        },
+        {
+            "doc_id": "downloaded_page_4.html",
+            "tfidf": 0.046348369679273006
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.0660777753553495
+        },
+        {
+            "doc_id": "downloaded_page_6.html",
+            "tfidf": 0.23468115989105537
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.3981601781717108
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.06843515813893161
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.029346602395708046
+        }
+    ],
+    "failed": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.06385495787246827
+        },
+        {
+            "doc_id": "downloaded_page_16.html",
+            "tfidf": 0.1276150932231091
+        },
+        {
+            "doc_id": "downloaded_page_17.html",
+            "tfidf": 0.20170718648622588
+        },
+        {
+            "doc_id": "downloaded_page_19.html",
+            "tfidf": 0.19396970097393015
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.04963083767440436
+        }
+    ],
+    "ve": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.06385495787246827
+        },
+        {
+            "doc_id": "downloaded_page_16.html",
+            "tfidf": 0.1276150932231091
+        },
+        {
+            "doc_id": "downloaded_page_17.html",
+            "tfidf": 0.20170718648622588
+        },
+        {
+            "doc_id": "downloaded_page_19.html",
+            "tfidf": 0.19396970097393015
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.04963083767440436
+        }
+    ],
+    "just": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.0466739331737942
+        },
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.09443259661898942
+        },
+        {
+            "doc_id": "downloaded_page_16.html",
+            "tfidf": 0.09327855708493125
+        },
+        {
+            "doc_id": "downloaded_page_17.html",
+            "tfidf": 0.14743518837699052
+        },
+        {
+            "doc_id": "downloaded_page_19.html",
+            "tfidf": 0.1417795761306343
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.1088310044273013
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.1632081898469005
+        },
+        {
+            "doc_id": "downloaded_page_6.html",
+            "tfidf": 0.06440539549545524
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.08551583026551364
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.07512479361833772
+        }
+    ],
+    "10": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.06385495787246827
+        },
+        {
+            "doc_id": "downloaded_page_16.html",
+            "tfidf": 0.1276150932231091
+        },
+        {
+            "doc_id": "downloaded_page_17.html",
+            "tfidf": 0.20170718648622588
+        },
+        {
+            "doc_id": "downloaded_page_19.html",
+            "tfidf": 0.19396970097393015
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.04963083767440436
+        }
+    ],
+    "000": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.06385495787246827
+        },
+        {
+            "doc_id": "downloaded_page_16.html",
+            "tfidf": 0.1276150932231091
+        },
+        {
+            "doc_id": "downloaded_page_17.html",
+            "tfidf": 0.20170718648622588
+        },
+        {
+            "doc_id": "downloaded_page_19.html",
+            "tfidf": 0.19396970097393015
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.04963083767440436
+        }
+    ],
+    "won": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.06385495787246827
+        },
+        {
+            "doc_id": "downloaded_page_16.html",
+            "tfidf": 0.1276150932231091
+        },
+        {
+            "doc_id": "downloaded_page_17.html",
+            "tfidf": 0.20170718648622588
+        },
+        {
+            "doc_id": "downloaded_page_19.html",
+            "tfidf": 0.19396970097393015
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.04963083767440436
+        }
+    ],
+    "work": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.06385495787246827
+        },
+        {
+            "doc_id": "downloaded_page_16.html",
+            "tfidf": 0.1276150932231091
+        },
+        {
+            "doc_id": "downloaded_page_17.html",
+            "tfidf": 0.20170718648622588
+        },
+        {
+            "doc_id": "downloaded_page_19.html",
+            "tfidf": 0.19396970097393015
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.04963083767440436
+        }
+    ],
+    "thomas": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.06385495787246827
+        },
+        {
+            "doc_id": "downloaded_page_16.html",
+            "tfidf": 0.1276150932231091
+        },
+        {
+            "doc_id": "downloaded_page_17.html",
+            "tfidf": 0.20170718648622588
+        },
+        {
+            "doc_id": "downloaded_page_19.html",
+            "tfidf": 0.19396970097393015
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.04963083767440436
+        }
+    ],
+    "edison": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.12770991574493654
+        },
+        {
+            "doc_id": "downloaded_page_16.html",
+            "tfidf": 0.2552301864462182
+        },
+        {
+            "doc_id": "downloaded_page_17.html",
+            "tfidf": 0.40341437297245175
+        },
+        {
+            "doc_id": "downloaded_page_19.html",
+            "tfidf": 0.5819091029217904
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.09926167534880873
+        }
+    ],
+    "failure": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.06385495787246827
+        },
+        {
+            "doc_id": "downloaded_page_16.html",
+            "tfidf": 0.1276150932231091
+        },
+        {
+            "doc_id": "downloaded_page_17.html",
+            "tfidf": 0.40341437297245175
+        },
+        {
+            "doc_id": "downloaded_page_19.html",
+            "tfidf": 0.19396970097393015
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.04963083767440436
+        }
+    ],
+    "paraphrased": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.06385495787246827
+        },
+        {
+            "doc_id": "downloaded_page_16.html",
+            "tfidf": 0.38284527966932724
+        },
+        {
+            "doc_id": "downloaded_page_17.html",
+            "tfidf": 0.20170718648622588
+        },
+        {
+            "doc_id": "downloaded_page_19.html",
+            "tfidf": 0.19396970097393015
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.04963083767440436
+        }
+    ],
+    "woman": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.07534793683167734
+        },
+        {
+            "doc_id": "downloaded_page_15.html",
+            "tfidf": 0.1659499714009996
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.04601741585223942
+        }
+    ],
+    "like": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.0721063644552243
+        },
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.05785142515532386
+        },
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.06226807576184105
+        },
+        {
+            "doc_id": "downloaded_page_12.html",
+            "tfidf": 0.1364666875670507
+        },
+        {
+            "doc_id": "downloaded_page_13.html",
+            "tfidf": 0.26325324130839906
+        },
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.0486295080590091
+        },
+        {
+            "doc_id": "downloaded_page_15.html",
+            "tfidf": 0.07940528714081412
+        },
+        {
+            "doc_id": "downloaded_page_18.html",
+            "tfidf": 0.1251669348265497
+        },
+        {
+            "doc_id": "downloaded_page_2.html",
+            "tfidf": 0.26325324130839906
+        },
+        {
+            "doc_id": "downloaded_page_20.html",
+            "tfidf": 0.11854481533587449
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.02802209404566588
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.04202327515931156
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.022018841512155347
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.058029989974241254
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.07465386604398816
+        }
+    ],
+    "tea": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.06385495787246827
+        },
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.10246253140246371
+        },
+        {
+            "doc_id": "downloaded_page_15.html",
+            "tfidf": 0.1406372739365191
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.09926167534880873
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.13222187825641707
+        }
+    ],
+    "bag": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.08350233517450086
+        },
+        {
+            "doc_id": "downloaded_page_15.html",
+            "tfidf": 0.18390961606661183
+        }
+    ],
+    "know": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.09875103357053636
+        },
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.04263865531418255
+        },
+        {
+            "doc_id": "downloaded_page_12.html",
+            "tfidf": 0.18689371662278184
+        },
+        {
+            "doc_id": "downloaded_page_13.html",
+            "tfidf": 0.12017676879799435
+        },
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.03329951675649862
+        },
+        {
+            "doc_id": "downloaded_page_15.html",
+            "tfidf": 0.10874704660765194
+        },
+        {
+            "doc_id": "downloaded_page_2.html",
+            "tfidf": 0.12017676879799435
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.060310442047078756
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.10223988530801692
+        }
+    ],
+    "strong": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.08350233517450086
+        },
+        {
+            "doc_id": "downloaded_page_15.html",
+            "tfidf": 0.18390961606661183
+        }
+    ],
+    "hot": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.08350233517450086
+        },
+        {
+            "doc_id": "downloaded_page_15.html",
+            "tfidf": 0.18390961606661183
+        }
+    ],
+    "water": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.08350233517450086
+        },
+        {
+            "doc_id": "downloaded_page_15.html",
+            "tfidf": 0.18390961606661183
+        }
+    ],
+    "eleanor": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.1670046703490017
+        },
+        {
+            "doc_id": "downloaded_page_15.html",
+            "tfidf": 0.5517288481998355
+        }
+    ],
+    "roosevelt": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.1670046703490017
+        },
+        {
+            "doc_id": "downloaded_page_15.html",
+            "tfidf": 0.5517288481998355
+        }
+    ],
+    "misattributed": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.055700559529644735
+        },
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.037565211184932
+        },
+        {
+            "doc_id": "downloaded_page_15.html",
+            "tfidf": 0.24535525854181367
+        },
+        {
+            "doc_id": "downloaded_page_16.html",
+            "tfidf": 0.11131840555202589
+        },
+        {
+            "doc_id": "downloaded_page_4.html",
+            "tfidf": 0.09107829581950522
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.04482687395884544
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.057668447731592846
+        }
+    ],
+    "day": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.052361978913259194
+        },
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.0452176405598066
+        },
+        {
+            "doc_id": "downloaded_page_12.html",
+            "tfidf": 0.19819792249227777
+        },
+        {
+            "doc_id": "downloaded_page_13.html",
+            "tfidf": 0.1274456217041907
+        },
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.03531362723368469
+        },
+        {
+            "doc_id": "downloaded_page_2.html",
+            "tfidf": 0.1274456217041907
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.03197914979252127
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.08428008080353887
+        }
+    ],
+    "sunshine": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.06385495787246827
+        },
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.0551425021163155
+        },
+        {
+            "doc_id": "downloaded_page_12.html",
+            "tfidf": 0.2417005669728493
+        },
+        {
+            "doc_id": "downloaded_page_13.html",
+            "tfidf": 0.1554187785460281
+        },
+        {
+            "doc_id": "downloaded_page_2.html",
+            "tfidf": 0.1554187785460281
+        }
+    ],
+    "night": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.06385495787246827
+        },
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.0551425021163155
+        },
+        {
+            "doc_id": "downloaded_page_12.html",
+            "tfidf": 0.2417005669728493
+        },
+        {
+            "doc_id": "downloaded_page_13.html",
+            "tfidf": 0.1554187785460281
+        },
+        {
+            "doc_id": "downloaded_page_2.html",
+            "tfidf": 0.1554187785460281
+        }
+    ],
+    "steve": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.06385495787246827
+        },
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.0551425021163155
+        },
+        {
+            "doc_id": "downloaded_page_12.html",
+            "tfidf": 0.2417005669728493
+        },
+        {
+            "doc_id": "downloaded_page_13.html",
+            "tfidf": 0.1554187785460281
+        },
+        {
+            "doc_id": "downloaded_page_2.html",
+            "tfidf": 0.1554187785460281
+        }
+    ],
+    "martin": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.055700559529644735
+        },
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.04810070077687246
+        },
+        {
+            "doc_id": "downloaded_page_12.html",
+            "tfidf": 0.21083494951023574
+        },
+        {
+            "doc_id": "downloaded_page_13.html",
+            "tfidf": 0.13557150791199926
+        },
+        {
+            "doc_id": "downloaded_page_2.html",
+            "tfidf": 0.13557150791199926
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.04329288626124399
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.057668447731592846
+        }
+    ],
+    "obvious": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.06385495787246827
+        },
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.0551425021163155
+        },
+        {
+            "doc_id": "downloaded_page_12.html",
+            "tfidf": 0.4834011339456986
+        },
+        {
+            "doc_id": "downloaded_page_13.html",
+            "tfidf": 0.1554187785460281
+        },
+        {
+            "doc_id": "downloaded_page_2.html",
+            "tfidf": 0.1554187785460281
+        }
+    ],
+    "simile": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.05669034760023361
+        },
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.02274152514831575
+        },
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.04895544084084928
+        },
+        {
+            "doc_id": "downloaded_page_12.html",
+            "tfidf": 0.21458144540992907
+        },
+        {
+            "doc_id": "downloaded_page_13.html",
+            "tfidf": 0.34495146786311276
+        },
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.019116368827646866
+        },
+        {
+            "doc_id": "downloaded_page_15.html",
+            "tfidf": 0.062428793398735354
+        },
+        {
+            "doc_id": "downloaded_page_16.html",
+            "tfidf": 0.05664825594516225
+        },
+        {
+            "doc_id": "downloaded_page_17.html",
+            "tfidf": 0.08953768741189275
+        },
+        {
+            "doc_id": "downloaded_page_18.html",
+            "tfidf": 0.19681361269514905
+        },
+        {
+            "doc_id": "downloaded_page_19.html",
+            "tfidf": 0.08610302268217926
+        },
+        {
+            "doc_id": "downloaded_page_2.html",
+            "tfidf": 0.34495146786311276
+        },
+        {
+            "doc_id": "downloaded_page_20.html",
+            "tfidf": 0.18640093252154866
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.022031096199860323
+        },
+        {
+            "doc_id": "downloaded_page_4.html",
+            "tfidf": 0.046348369679273006
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.03303888767767475
+        },
+        {
+            "doc_id": "downloaded_page_6.html",
+            "tfidf": 0.03911352664850923
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.01731131209442221
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.04562343875928774
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.029346602395708046
+        }
+    ],
+    "reading": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.028345173800116804
+        },
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.181932201186526
+        },
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.02447772042042464
+        },
+        {
+            "doc_id": "downloaded_page_12.html",
+            "tfidf": 0.10729072270496454
+        },
+        {
+            "doc_id": "downloaded_page_13.html",
+            "tfidf": 0.06899029357262255
+        },
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.019116368827646866
+        },
+        {
+            "doc_id": "downloaded_page_15.html",
+            "tfidf": 0.062428793398735354
+        },
+        {
+            "doc_id": "downloaded_page_16.html",
+            "tfidf": 0.05664825594516225
+        },
+        {
+            "doc_id": "downloaded_page_17.html",
+            "tfidf": 0.08953768741189275
+        },
+        {
+            "doc_id": "downloaded_page_18.html",
+            "tfidf": 0.09840680634757452
+        },
+        {
+            "doc_id": "downloaded_page_19.html",
+            "tfidf": 0.08610302268217926
+        },
+        {
+            "doc_id": "downloaded_page_2.html",
+            "tfidf": 0.06899029357262255
+        },
+        {
+            "doc_id": "downloaded_page_20.html",
+            "tfidf": 0.09320046626077433
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.044062192399720645
+        },
+        {
+            "doc_id": "downloaded_page_4.html",
+            "tfidf": 0.046348369679273006
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.03303888767767475
+        },
+        {
+            "doc_id": "downloaded_page_6.html",
+            "tfidf": 0.03911352664850923
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.01731131209442221
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.02281171937964387
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.35215922874849653
+        }
+    ],
+    "friendship": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.028345173800116804
+        },
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.0454830502966315
+        },
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.02447772042042464
+        },
+        {
+            "doc_id": "downloaded_page_12.html",
+            "tfidf": 0.10729072270496454
+        },
+        {
+            "doc_id": "downloaded_page_13.html",
+            "tfidf": 0.06899029357262255
+        },
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.09558184413823433
+        },
+        {
+            "doc_id": "downloaded_page_15.html",
+            "tfidf": 0.062428793398735354
+        },
+        {
+            "doc_id": "downloaded_page_16.html",
+            "tfidf": 0.05664825594516225
+        },
+        {
+            "doc_id": "downloaded_page_17.html",
+            "tfidf": 0.08953768741189275
+        },
+        {
+            "doc_id": "downloaded_page_18.html",
+            "tfidf": 0.09840680634757452
+        },
+        {
+            "doc_id": "downloaded_page_19.html",
+            "tfidf": 0.08610302268217926
+        },
+        {
+            "doc_id": "downloaded_page_2.html",
+            "tfidf": 0.06899029357262255
+        },
+        {
+            "doc_id": "downloaded_page_20.html",
+            "tfidf": 0.09320046626077433
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.022031096199860323
+        },
+        {
+            "doc_id": "downloaded_page_4.html",
+            "tfidf": 0.046348369679273006
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.0660777753553495
+        },
+        {
+            "doc_id": "downloaded_page_6.html",
+            "tfidf": 0.352021739836583
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.08655656047211104
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.04562343875928774
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.029346602395708046
+        }
+    ],
+    "friends": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.028345173800116804
+        },
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.090966100593263
+        },
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.02447772042042464
+        },
+        {
+            "doc_id": "downloaded_page_12.html",
+            "tfidf": 0.10729072270496454
+        },
+        {
+            "doc_id": "downloaded_page_13.html",
+            "tfidf": 0.06899029357262255
+        },
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.1720473194488218
+        },
+        {
+            "doc_id": "downloaded_page_15.html",
+            "tfidf": 0.062428793398735354
+        },
+        {
+            "doc_id": "downloaded_page_16.html",
+            "tfidf": 0.05664825594516225
+        },
+        {
+            "doc_id": "downloaded_page_17.html",
+            "tfidf": 0.08953768741189275
+        },
+        {
+            "doc_id": "downloaded_page_18.html",
+            "tfidf": 0.09840680634757452
+        },
+        {
+            "doc_id": "downloaded_page_19.html",
+            "tfidf": 0.08610302268217926
+        },
+        {
+            "doc_id": "downloaded_page_2.html",
+            "tfidf": 0.06899029357262255
+        },
+        {
+            "doc_id": "downloaded_page_20.html",
+            "tfidf": 0.09320046626077433
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.1101554809993016
+        },
+        {
+            "doc_id": "downloaded_page_4.html",
+            "tfidf": 0.046348369679273006
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.36342776445442226
+        },
+        {
+            "doc_id": "downloaded_page_6.html",
+            "tfidf": 0.1564541065940369
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.10386787256653325
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.1596820356575071
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.029346602395708046
+        }
+    ],
+    "truth": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.028345173800116804
+        },
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.02274152514831575
+        },
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.04895544084084928
+        },
+        {
+            "doc_id": "downloaded_page_12.html",
+            "tfidf": 0.10729072270496454
+        },
+        {
+            "doc_id": "downloaded_page_13.html",
+            "tfidf": 0.06899029357262255
+        },
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.03823273765529373
+        },
+        {
+            "doc_id": "downloaded_page_15.html",
+            "tfidf": 0.062428793398735354
+        },
+        {
+            "doc_id": "downloaded_page_16.html",
+            "tfidf": 0.05664825594516225
+        },
+        {
+            "doc_id": "downloaded_page_17.html",
+            "tfidf": 0.08953768741189275
+        },
+        {
+            "doc_id": "downloaded_page_18.html",
+            "tfidf": 0.09840680634757452
+        },
+        {
+            "doc_id": "downloaded_page_19.html",
+            "tfidf": 0.08610302268217926
+        },
+        {
+            "doc_id": "downloaded_page_2.html",
+            "tfidf": 0.06899029357262255
+        },
+        {
+            "doc_id": "downloaded_page_20.html",
+            "tfidf": 0.09320046626077433
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.044062192399720645
+        },
+        {
+            "doc_id": "downloaded_page_4.html",
+            "tfidf": 0.4171353271134571
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.0660777753553495
+        },
+        {
+            "doc_id": "downloaded_page_6.html",
+            "tfidf": 0.07822705329701846
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.03462262418884442
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.04562343875928774
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.029346602395708046
+        }
+    ],
+    "goodreads": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.028345173800116804
+        },
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.02274152514831575
+        },
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.02447772042042464
+        },
+        {
+            "doc_id": "downloaded_page_12.html",
+            "tfidf": 0.10729072270496454
+        },
+        {
+            "doc_id": "downloaded_page_13.html",
+            "tfidf": 0.06899029357262255
+        },
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.019116368827646866
+        },
+        {
+            "doc_id": "downloaded_page_15.html",
+            "tfidf": 0.062428793398735354
+        },
+        {
+            "doc_id": "downloaded_page_16.html",
+            "tfidf": 0.05664825594516225
+        },
+        {
+            "doc_id": "downloaded_page_17.html",
+            "tfidf": 0.08953768741189275
+        },
+        {
+            "doc_id": "downloaded_page_18.html",
+            "tfidf": 0.09840680634757452
+        },
+        {
+            "doc_id": "downloaded_page_19.html",
+            "tfidf": 0.08610302268217926
+        },
+        {
+            "doc_id": "downloaded_page_2.html",
+            "tfidf": 0.06899029357262255
+        },
+        {
+            "doc_id": "downloaded_page_20.html",
+            "tfidf": 0.09320046626077433
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.022031096199860323
+        },
+        {
+            "doc_id": "downloaded_page_4.html",
+            "tfidf": 0.046348369679273006
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.03303888767767475
+        },
+        {
+            "doc_id": "downloaded_page_6.html",
+            "tfidf": 0.03911352664850923
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.01731131209442221
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.02281171937964387
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.029346602395708046
+        }
+    ],
+    "com": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.028345173800116804
+        },
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.02274152514831575
+        },
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.02447772042042464
+        },
+        {
+            "doc_id": "downloaded_page_12.html",
+            "tfidf": 0.10729072270496454
+        },
+        {
+            "doc_id": "downloaded_page_13.html",
+            "tfidf": 0.06899029357262255
+        },
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.019116368827646866
+        },
+        {
+            "doc_id": "downloaded_page_15.html",
+            "tfidf": 0.062428793398735354
+        },
+        {
+            "doc_id": "downloaded_page_16.html",
+            "tfidf": 0.05664825594516225
+        },
+        {
+            "doc_id": "downloaded_page_17.html",
+            "tfidf": 0.08953768741189275
+        },
+        {
+            "doc_id": "downloaded_page_18.html",
+            "tfidf": 0.09840680634757452
+        },
+        {
+            "doc_id": "downloaded_page_19.html",
+            "tfidf": 0.08610302268217926
+        },
+        {
+            "doc_id": "downloaded_page_2.html",
+            "tfidf": 0.06899029357262255
+        },
+        {
+            "doc_id": "downloaded_page_20.html",
+            "tfidf": 0.09320046626077433
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.022031096199860323
+        },
+        {
+            "doc_id": "downloaded_page_4.html",
+            "tfidf": 0.046348369679273006
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.03303888767767475
+        },
+        {
+            "doc_id": "downloaded_page_6.html",
+            "tfidf": 0.03911352664850923
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.01731131209442221
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.02281171937964387
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.029346602395708046
+        }
+    ],
+    "zyte": [
+        {
+            "doc_id": "downloaded_page_1.html",
+            "tfidf": 0.028345173800116804
+        },
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.02274152514831575
+        },
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.02447772042042464
+        },
+        {
+            "doc_id": "downloaded_page_12.html",
+            "tfidf": 0.10729072270496454
+        },
+        {
+            "doc_id": "downloaded_page_13.html",
+            "tfidf": 0.06899029357262255
+        },
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.019116368827646866
+        },
+        {
+            "doc_id": "downloaded_page_15.html",
+            "tfidf": 0.062428793398735354
+        },
+        {
+            "doc_id": "downloaded_page_16.html",
+            "tfidf": 0.05664825594516225
+        },
+        {
+            "doc_id": "downloaded_page_17.html",
+            "tfidf": 0.08953768741189275
+        },
+        {
+            "doc_id": "downloaded_page_18.html",
+            "tfidf": 0.09840680634757452
+        },
+        {
+            "doc_id": "downloaded_page_19.html",
+            "tfidf": 0.08610302268217926
+        },
+        {
+            "doc_id": "downloaded_page_2.html",
+            "tfidf": 0.06899029357262255
+        },
+        {
+            "doc_id": "downloaded_page_20.html",
+            "tfidf": 0.09320046626077433
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.022031096199860323
+        },
+        {
+            "doc_id": "downloaded_page_4.html",
+            "tfidf": 0.046348369679273006
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.03303888767767475
+        },
+        {
+            "doc_id": "downloaded_page_6.html",
+            "tfidf": 0.03911352664850923
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.01731131209442221
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.02281171937964387
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.029346602395708046
+        }
+    ],
+    "viewing": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.025017575638019787
+        },
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.026927535337691613
+        },
+        {
+            "doc_id": "downloaded_page_12.html",
+            "tfidf": 0.11802874930435556
+        },
+        {
+            "doc_id": "downloaded_page_13.html",
+            "tfidf": 0.07589508076023219
+        },
+        {
+            "doc_id": "downloaded_page_15.html",
+            "tfidf": 0.0686768829556201
+        },
+        {
+            "doc_id": "downloaded_page_16.html",
+            "tfidf": 0.062317809321375234
+        },
+        {
+            "doc_id": "downloaded_page_17.html",
+            "tfidf": 0.09849892883926897
+        },
+        {
+            "doc_id": "downloaded_page_18.html",
+            "tfidf": 0.108255699872387
+        },
+        {
+            "doc_id": "downloaded_page_19.html",
+            "tfidf": 0.09472051098442208
+        },
+        {
+            "doc_id": "downloaded_page_2.html",
+            "tfidf": 0.07589508076023219
+        },
+        {
+            "doc_id": "downloaded_page_20.html",
+            "tfidf": 0.10252829126327598
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.024236044503343938
+        },
+        {
+            "doc_id": "downloaded_page_4.html",
+            "tfidf": 0.050987074815252234
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.03634553382333212
+        },
+        {
+            "doc_id": "downloaded_page_6.html",
+            "tfidf": 0.04302814367185273
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.019043888080991302
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.025094795150789974
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.03228371186036714
+        }
+    ],
+    "tag": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.025017575638019787
+        },
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.026927535337691613
+        },
+        {
+            "doc_id": "downloaded_page_12.html",
+            "tfidf": 0.11802874930435556
+        },
+        {
+            "doc_id": "downloaded_page_13.html",
+            "tfidf": 0.07589508076023219
+        },
+        {
+            "doc_id": "downloaded_page_15.html",
+            "tfidf": 0.0686768829556201
+        },
+        {
+            "doc_id": "downloaded_page_16.html",
+            "tfidf": 0.062317809321375234
+        },
+        {
+            "doc_id": "downloaded_page_17.html",
+            "tfidf": 0.09849892883926897
+        },
+        {
+            "doc_id": "downloaded_page_18.html",
+            "tfidf": 0.108255699872387
+        },
+        {
+            "doc_id": "downloaded_page_19.html",
+            "tfidf": 0.09472051098442208
+        },
+        {
+            "doc_id": "downloaded_page_2.html",
+            "tfidf": 0.07589508076023219
+        },
+        {
+            "doc_id": "downloaded_page_20.html",
+            "tfidf": 0.10252829126327598
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.024236044503343938
+        },
+        {
+            "doc_id": "downloaded_page_4.html",
+            "tfidf": 0.050987074815252234
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.03634553382333212
+        },
+        {
+            "doc_id": "downloaded_page_6.html",
+            "tfidf": 0.04302814367185273
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.019043888080991302
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.025094795150789974
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.03228371186036714
+        }
+    ],
+    "sleepy": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.051231265701231855
+        },
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.04306464778702207
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.0744287826805436
+        },
+        {
+            "doc_id": "downloaded_page_6.html",
+            "tfidf": 0.08811350440101832
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.05138939666616984
+        }
+    ],
+    "conscience": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.051231265701231855
+        },
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.04306464778702207
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.0744287826805436
+        },
+        {
+            "doc_id": "downloaded_page_6.html",
+            "tfidf": 0.08811350440101832
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.05138939666616984
+        }
+    ],
+    "ideal": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.051231265701231855
+        },
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.04306464778702207
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.0744287826805436
+        },
+        {
+            "doc_id": "downloaded_page_6.html",
+            "tfidf": 0.08811350440101832
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.05138939666616984
+        }
+    ],
+    "mark": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.08937787323170017
+        },
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.037565211184932
+        },
+        {
+            "doc_id": "downloaded_page_4.html",
+            "tfidf": 0.27323488745851565
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.06492408700192853
+        },
+        {
+            "doc_id": "downloaded_page_6.html",
+            "tfidf": 0.07686124399387723
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.04482687395884544
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.057668447731592846
+        }
+    ],
+    "twain": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.08937787323170017
+        },
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.037565211184932
+        },
+        {
+            "doc_id": "downloaded_page_4.html",
+            "tfidf": 0.27323488745851565
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.06492408700192853
+        },
+        {
+            "doc_id": "downloaded_page_6.html",
+            "tfidf": 0.07686124399387723
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.04482687395884544
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.057668447731592846
+        }
+    ],
+    "contentment": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.051231265701231855
+        },
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.04306464778702207
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.0744287826805436
+        },
+        {
+            "doc_id": "downloaded_page_6.html",
+            "tfidf": 0.08811350440101832
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.05138939666616984
+        }
+    ],
+    "imagined": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.07621538469222638
+        }
+    ],
+    "paradise": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.07621538469222638
+        }
+    ],
+    "kind": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.07621538469222638
+        }
+    ],
+    "library": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.26797795895768006
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.17290490767561462
+        }
+    ],
+    "jorge": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.07621538469222638
+        }
+    ],
+    "luis": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.07621538469222638
+        }
+    ],
+    "borges": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.07621538469222638
+        }
+    ],
+    "cup": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.060452160654038245
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.0585636784768221
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.07800996244119163
+        }
+    ],
+    "large": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.060452160654038245
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.0585636784768221
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.07800996244119163
+        }
+    ],
+    "book": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.3876427517909916
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.05364758143144028
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.0804524841166779
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.28584582945442893
+        }
+    ],
+    "long": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.060452160654038245
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.1171273569536442
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.07800996244119163
+        }
+    ],
+    "suit": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.060452160654038245
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.0585636784768221
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.07800996244119163
+        }
+    ],
+    "lewis": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.060452160654038245
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.0585636784768221
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.15601992488238325
+        }
+    ],
+    "read": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.13398897947884003
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.34580981535122923
+        }
+    ],
+    "think": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.051231265701231855
+        },
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.330855012697893
+        },
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.08612929557404414
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.07799656564476068
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.05138939666616984
+        }
+    ],
+    "haruki": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.07621538469222638
+        }
+    ],
+    "murakami": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.07621538469222638
+        }
+    ],
+    "thought": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.06699448973942002
+        },
+        {
+            "doc_id": "downloaded_page_6.html",
+            "tfidf": 0.11522493511918878
+        }
+    ],
+    "friend": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.12090432130807649
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.08782489884454552
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.07800996244119163
+        }
+    ],
+    "loyal": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.06699448973942002
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.09732959452316059
+        }
+    ],
+    "ernest": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.06699448973942002
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.09732959452316059
+        }
+    ],
+    "hemingway": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.06699448973942002
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.09732959452316059
+        }
+    ],
+    "novelist": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.06699448973942002
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.09732959452316059
+        }
+    ],
+    "really": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.05537753597014166
+        },
+        {
+            "doc_id": "downloaded_page_6.html",
+            "tfidf": 0.09524474347127637
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.042154508193581415
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.07146145736360723
+        }
+    ],
+    "knocks": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.06699448973942002
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.08645245383780731
+        }
+    ],
+    "wish": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.06699448973942002
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.08645245383780731
+        }
+    ],
+    "author": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.06699448973942002
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.08645245383780731
+        }
+    ],
+    "wrote": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.06699448973942002
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.08645245383780731
+        }
+    ],
+    "terrific": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.06699448973942002
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.08645245383780731
+        }
+    ],
+    "phone": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.06699448973942002
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.08645245383780731
+        }
+    ],
+    "felt": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.06699448973942002
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.08645245383780731
+        }
+    ],
+    "doesn": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.042010370748425466
+        },
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.0452176405598066
+        },
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.03531362723368469
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.04069799687198662
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.06103266651654172
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.03197914979252127
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.042140040401769434
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.054211915815225456
+        }
+    ],
+    "happen": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.06699448973942002
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.08645245383780731
+        }
+    ],
+    "salinger": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.06699448973942002
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.08645245383780731
+        }
+    ],
+    "authors": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.06699448973942002
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.08645245383780731
+        }
+    ],
+    "literature": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.06699448973942002
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.08645245383780731
+        }
+    ],
+    "writing": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.13398897947884003
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.08645245383780731
+        }
+    ],
+    "people": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.0477256441393103
+        },
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.10273848974577098
+        },
+        {
+            "doc_id": "downloaded_page_4.html",
+            "tfidf": 0.09726725816865475
+        },
+        {
+            "doc_id": "downloaded_page_6.html",
+            "tfidf": 0.08208412767770906
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.036329732294323326
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.0615871404182899
+        }
+    ],
+    "praise": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.06699448973942002
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.08645245383780731
+        }
+    ],
+    "don": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.044688936615850085
+        },
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.262956478294524
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.08658577252248797
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.12984817400385706
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.20410877209318426
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.08965374791769087
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.057668447731592846
+        }
+    ],
+    "declare": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.06699448973942002
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.08645245383780731
+        }
+    ],
+    "enjoyment": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.06699448973942002
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.08645245383780731
+        }
+    ],
+    "sooner": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.06699448973942002
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.08645245383780731
+        }
+    ],
+    "tires": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.06699448973942002
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.08645245383780731
+        }
+    ],
+    "thing": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.042010370748425466
+        },
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.03531362723368469
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.04069799687198662
+        },
+        {
+            "doc_id": "downloaded_page_4.html",
+            "tfidf": 0.08561924414095617
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.06103266651654172
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.03197914979252127
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.042140040401769434
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.054211915815225456
+        }
+    ],
+    "house": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.06699448973942002
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.08645245383780731
+        }
+    ],
+    "shall": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.060452160654038245
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.06063875293057026
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.07800996244119163
+        }
+    ],
+    "miserable": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.06699448973942002
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.08645245383780731
+        }
+    ],
+    "excellent": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.06699448973942002
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.08645245383780731
+        }
+    ],
+    "write": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.22864615407667918
+        }
+    ],
+    "wants": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.07621538469222638
+        }
+    ],
+    "written": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.07621538469222638
+        }
+    ],
+    "difficult": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.15243076938445277
+        }
+    ],
+    "grown": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.15243076938445277
+        }
+    ],
+    "ups": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.15243076938445277
+        }
+    ],
+    "children": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.15243076938445277
+        }
+    ],
+    "madeleine": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.07621538469222638
+        }
+    ],
+    "engle": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.07621538469222638
+        }
+    ],
+    "writers": [
+        {
+            "doc_id": "downloaded_page_10.html",
+            "tfidf": 0.07621538469222638
+        }
+    ],
+    "thinks": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.16406805313755268
+        }
+    ],
+    "sitting": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.16406805313755268
+        }
+    ],
+    "church": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.08203402656877634
+        }
+    ],
+    "make": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.10273848974577098
+        },
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.12035353960923512
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.09246945843571235
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.13867163136858726
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.18164866147161662
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.09574590923153821
+        }
+    ],
+    "christian": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.08203402656877634
+        }
+    ],
+    "garage": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.08203402656877634
+        }
+    ],
+    "car": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.08203402656877634
+        }
+    ],
+    "garrison": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.08203402656877634
+        }
+    ],
+    "keillor": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.08203402656877634
+        }
+    ],
+    "religion": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.08203402656877634
+        }
+    ],
+    "eye": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.16406805313755268
+        }
+    ],
+    "beholder": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.16406805313755268
+        }
+    ],
+    "necessary": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.07210916501226744
+        },
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.056315104942449526
+        }
+    ],
+    "time": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.14421833002453488
+        },
+        {
+            "doc_id": "downloaded_page_6.html",
+            "tfidf": 0.11522493511918878
+        }
+    ],
+    "misinformed": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.08203402656877634
+        }
+    ],
+    "black": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.08203402656877634
+        }
+    ],
+    "jim": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.08203402656877634
+        }
+    ],
+    "henson": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.08203402656877634
+        }
+    ],
+    "need": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.08203402656877634
+        }
+    ],
+    "little": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.08203402656877634
+        }
+    ],
+    "chocolate": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.16406805313755268
+        }
+    ],
+    "hurt": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.0596053182101345
+        },
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.04654997391192608
+        },
+        {
+            "doc_id": "downloaded_page_6.html",
+            "tfidf": 0.09524474347127637
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.042154508193581415
+        }
+    ],
+    "charles": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.16406805313755268
+        }
+    ],
+    "schulz": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.08203402656877634
+        }
+    ],
+    "food": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.08203402656877634
+        }
+    ],
+    "remember": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.05136924487288549
+        },
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.08023569307282341
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.09246945843571235
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.13867163136858726
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.07265946458864665
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.09574590923153821
+        }
+    ],
+    "madly": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.08203402656877634
+        }
+    ],
+    "right": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.16406805313755268
+        }
+    ],
+    "kiss": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.08203402656877634
+        }
+    ],
+    "anytime": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.08203402656877634
+        }
+    ],
+    "feel": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.08203402656877634
+        }
+    ],
+    "suzanne": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.08203402656877634
+        }
+    ],
+    "collins": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.08203402656877634
+        }
+    ],
+    "crazy": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.08203402656877634
+        }
+    ],
+    "horrible": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.08203402656877634
+        }
+    ],
+    "lives": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.07210916501226744
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.2593573615134219
+        }
+    ],
+    "lead": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.08203402656877634
+        }
+    ],
+    "bukowski": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.08203402656877634
+        }
+    ],
+    "trouble": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.08203402656877634
+        }
+    ],
+    "having": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.08203402656877634
+        }
+    ],
+    "open": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.16406805313755268
+        }
+    ],
+    "mind": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.14421833002453488
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.06490162988998247
+        }
+    ],
+    "course": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.08203402656877634
+        }
+    ],
+    "insist": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.08203402656877634
+        }
+    ],
+    "coming": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.08203402656877634
+        }
+    ],
+    "trying": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.05136924487288549
+        },
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.040117846536411705
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.04623472921785617
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.06933581568429363
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.036329732294323326
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.047872954615769105
+        }
+    ],
+    "things": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.06506736367282441
+        },
+        {
+            "doc_id": "downloaded_page_16.html",
+            "tfidf": 0.30116796888810654
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.07800996244119163
+        }
+    ],
+    "terry": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.08203402656877634
+        }
+    ],
+    "pratchett": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.08203402656877634
+        }
+    ],
+    "left": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.08203402656877634
+        }
+    ],
+    "low": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.08203402656877634
+        }
+    ],
+    "high": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.05136924487288549
+        },
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.040117846536411705
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.04623472921785617
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.06933581568429363
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.036329732294323326
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.09574590923153821
+        }
+    ],
+    "oh": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.08203402656877634
+        }
+    ],
+    "dr": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.0596053182101345
+        },
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.04654997391192608
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.05554846485661334
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.07146145736360723
+        }
+    ],
+    "seuss": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.0596053182101345
+        },
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.04654997391192608
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.05554846485661334
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.14292291472721447
+        }
+    ],
+    "philosophy": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.0596053182101345
+        },
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.04654997391192608
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.05364758143144028
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.042154508193581415
+        }
+    ],
+    "reason": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.07210916501226744
+        },
+        {
+            "doc_id": "downloaded_page_4.html",
+            "tfidf": 0.1365381326303379
+        }
+    ],
+    "talk": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.07210916501226744
+        },
+        {
+            "doc_id": "downloaded_page_4.html",
+            "tfidf": 0.1365381326303379
+        }
+    ],
+    "answers": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.07210916501226744
+        },
+        {
+            "doc_id": "downloaded_page_4.html",
+            "tfidf": 0.1365381326303379
+        }
+    ],
+    "accept": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.07210916501226744
+        },
+        {
+            "doc_id": "downloaded_page_4.html",
+            "tfidf": 0.1365381326303379
+        }
+    ],
+    "george": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.0551425021163155
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.04963083767440436
+        },
+        {
+            "doc_id": "downloaded_page_4.html",
+            "tfidf": 0.10441189086359977
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.05138939666616984
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.06611093912820853
+        }
+    ],
+    "carlin": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.07210916501226744
+        },
+        {
+            "doc_id": "downloaded_page_4.html",
+            "tfidf": 0.1365381326303379
+        }
+    ],
+    "insanity": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.07210916501226744
+        },
+        {
+            "doc_id": "downloaded_page_4.html",
+            "tfidf": 0.1365381326303379
+        }
+    ],
+    "lies": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.07210916501226744
+        },
+        {
+            "doc_id": "downloaded_page_4.html",
+            "tfidf": 0.1365381326303379
+        }
+    ],
+    "lying": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.07210916501226744
+        },
+        {
+            "doc_id": "downloaded_page_4.html",
+            "tfidf": 0.1365381326303379
+        }
+    ],
+    "self": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.07210916501226744
+        },
+        {
+            "doc_id": "downloaded_page_4.html",
+            "tfidf": 0.1365381326303379
+        }
+    ],
+    "indulgence": [
+        {
+            "doc_id": "downloaded_page_11.html",
+            "tfidf": 0.07210916501226744
+        },
+        {
+            "doc_id": "downloaded_page_4.html",
+            "tfidf": 0.1365381326303379
+        }
+    ],
+    "riding": [
+        {
+            "doc_id": "downloaded_page_13.html",
+            "tfidf": 0.18339193538786552
+        },
+        {
+            "doc_id": "downloaded_page_2.html",
+            "tfidf": 0.18339193538786552
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.06063875293057026
+        }
+    ],
+    "bicycle": [
+        {
+            "doc_id": "downloaded_page_13.html",
+            "tfidf": 0.18339193538786552
+        },
+        {
+            "doc_id": "downloaded_page_2.html",
+            "tfidf": 0.18339193538786552
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.06063875293057026
+        }
+    ],
+    "balance": [
+        {
+            "doc_id": "downloaded_page_13.html",
+            "tfidf": 0.18339193538786552
+        },
+        {
+            "doc_id": "downloaded_page_2.html",
+            "tfidf": 0.18339193538786552
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.06063875293057026
+        }
+    ],
+    "moving": [
+        {
+            "doc_id": "downloaded_page_13.html",
+            "tfidf": 0.18339193538786552
+        },
+        {
+            "doc_id": "downloaded_page_2.html",
+            "tfidf": 0.18339193538786552
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.06063875293057026
+        }
+    ],
+    "drug": [
+        {
+            "doc_id": "downloaded_page_13.html",
+            "tfidf": 0.33599439254772123
+        },
+        {
+            "doc_id": "downloaded_page_18.html",
+            "tfidf": 0.4792577826402437
+        },
+        {
+            "doc_id": "downloaded_page_2.html",
+            "tfidf": 0.33599439254772123
+        },
+        {
+            "doc_id": "downloaded_page_20.html",
+            "tfidf": 0.6808530394240836
+        }
+    ],
+    "bella": [
+        {
+            "doc_id": "downloaded_page_13.html",
+            "tfidf": 0.16799719627386062
+        },
+        {
+            "doc_id": "downloaded_page_18.html",
+            "tfidf": 0.23962889132012186
+        },
+        {
+            "doc_id": "downloaded_page_2.html",
+            "tfidf": 0.16799719627386062
+        },
+        {
+            "doc_id": "downloaded_page_20.html",
+            "tfidf": 0.2269510131413612
+        }
+    ],
+    "stephenie": [
+        {
+            "doc_id": "downloaded_page_13.html",
+            "tfidf": 0.16799719627386062
+        },
+        {
+            "doc_id": "downloaded_page_18.html",
+            "tfidf": 0.23962889132012186
+        },
+        {
+            "doc_id": "downloaded_page_2.html",
+            "tfidf": 0.16799719627386062
+        },
+        {
+            "doc_id": "downloaded_page_20.html",
+            "tfidf": 0.2269510131413612
+        }
+    ],
+    "meyer": [
+        {
+            "doc_id": "downloaded_page_13.html",
+            "tfidf": 0.16799719627386062
+        },
+        {
+            "doc_id": "downloaded_page_18.html",
+            "tfidf": 0.23962889132012186
+        },
+        {
+            "doc_id": "downloaded_page_2.html",
+            "tfidf": 0.16799719627386062
+        },
+        {
+            "doc_id": "downloaded_page_20.html",
+            "tfidf": 0.2269510131413612
+        }
+    ],
+    "romance": [
+        {
+            "doc_id": "downloaded_page_13.html",
+            "tfidf": 0.16799719627386062
+        },
+        {
+            "doc_id": "downloaded_page_18.html",
+            "tfidf": 0.4792577826402437
+        },
+        {
+            "doc_id": "downloaded_page_2.html",
+            "tfidf": 0.16799719627386062
+        },
+        {
+            "doc_id": "downloaded_page_20.html",
+            "tfidf": 0.2269510131413612
+        }
+    ],
+    "matter": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.04306464778702207
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.04963083767440436
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.0744287826805436
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.03899828282238034
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.05138939666616984
+        }
+    ],
+    "going": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.12035353960923512
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.1387041876535685
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.2080074470528809
+        },
+        {
+            "doc_id": "downloaded_page_6.html",
+            "tfidf": 0.08208412767770906
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.10898919688296997
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.1436188638473073
+        }
+    ],
+    "mess": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.08612929557404414
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.09926167534880873
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.1488575653610872
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.07799656564476068
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.10277879333233968
+        }
+    ],
+    "universal": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.04306464778702207
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.04963083767440436
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.0744287826805436
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.03899828282238034
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.05138939666616984
+        }
+    ],
+    "decide": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.04306464778702207
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.04963083767440436
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.0744287826805436
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.03899828282238034
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.05138939666616984
+        }
+    ],
+    "girls": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.04306464778702207
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.04963083767440436
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.0744287826805436
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.07799656564476068
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.05138939666616984
+        }
+    ],
+    "ll": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.16047138614564682
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.1849389168714247
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.2773432627371745
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.1453189291772933
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.19149181846307642
+        },
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.0615871404182899
+        }
+    ],
+    "act": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.04306464778702207
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.04963083767440436
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.0744287826805436
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.03899828282238034
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.05138939666616984
+        }
+    ],
+    "come": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.08612929557404414
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.09926167534880873
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.1488575653610872
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.07799656564476068
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.10277879333233968
+        }
+    ],
+    "ones": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.040117846536411705
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.04623472921785617
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.06933581568429363
+        },
+        {
+            "doc_id": "downloaded_page_6.html",
+            "tfidf": 0.08208412767770906
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.036329732294323326
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.047872954615769105
+        }
+    ],
+    "stay": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.04306464778702207
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.04963083767440436
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.0744287826805436
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.03899828282238034
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.05138939666616984
+        }
+    ],
+    "true": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.04306464778702207
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.04963083767440436
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.0744287826805436
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.03899828282238034
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.10277879333233968
+        }
+    ],
+    "best": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.08612929557404414
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.09926167534880873
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.1488575653610872
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.07799656564476068
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.10277879333233968
+        }
+    ],
+    "let": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.08612929557404414
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.04963083767440436
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.0744287826805436
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.07799656564476068
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.05138939666616984
+        }
+    ],
+    "sisters": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.08612929557404414
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.09926167534880873
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.1488575653610872
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.07799656564476068
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.10277879333233968
+        }
+    ],
+    "lovers": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.04306464778702207
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.04963083767440436
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.0744287826805436
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.03899828282238034
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.05138939666616984
+        }
+    ],
+    "baby": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.04306464778702207
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.04963083767440436
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.0744287826805436
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.03899828282238034
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.05138939666616984
+        }
+    ],
+    "hate": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.1291939433610662
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.14889251302321307
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.0744287826805436
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.11699484846714102
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.05138939666616984
+        }
+    ],
+    "say": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.04306464778702207
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.04963083767440436
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.0744287826805436
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.03899828282238034
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.05138939666616984
+        }
+    ],
+    "actually": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.04306464778702207
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.04963083767440436
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.0744287826805436
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.03899828282238034
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.05138939666616984
+        }
+    ],
+    "pretty": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.04306464778702207
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.04963083767440436
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.0744287826805436
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.03899828282238034
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.05138939666616984
+        }
+    ],
+    "break": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.08612929557404414
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.04963083767440436
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.0744287826805436
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.07799656564476068
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.05138939666616984
+        }
+    ],
+    "heart": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.08612929557404414
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.04963083767440436
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.0744287826805436
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.07799656564476068
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.05138939666616984
+        }
+    ],
+    "soulmate": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.04306464778702207
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.04963083767440436
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.0744287826805436
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.03899828282238034
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.05138939666616984
+        }
+    ],
+    "half": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.040117846536411705
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.04623472921785617
+        },
+        {
+            "doc_id": "downloaded_page_4.html",
+            "tfidf": 0.09726725816865475
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.06933581568429363
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.036329732294323326
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.047872954615769105
+        }
+    ],
+    "makes": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.16047138614564682
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.04623472921785617
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.06933581568429363
+        },
+        {
+            "doc_id": "downloaded_page_6.html",
+            "tfidf": 0.08208412767770906
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.1453189291772933
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.047872954615769105
+        }
+    ],
+    "goes": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.04306464778702207
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.04963083767440436
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.0744287826805436
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.03899828282238034
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.05138939666616984
+        }
+    ],
+    "fail": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.08612929557404414
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.09926167534880873
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.1488575653610872
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.07799656564476068
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.10277879333233968
+        }
+    ],
+    "mean": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.04306464778702207
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.04963083767440436
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.0744287826805436
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.03899828282238034
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.05138939666616984
+        }
+    ],
+    "gonna": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.04306464778702207
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.04963083767440436
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.0744287826805436
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.03899828282238034
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.05138939666616984
+        }
+    ],
+    "hold": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.08612929557404414
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.04963083767440436
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.0744287826805436
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.07799656564476068
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.05138939666616984
+        }
+    ],
+    "believe": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.04306464778702207
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.04963083767440436
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.0744287826805436
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.03899828282238034
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.05138939666616984
+        }
+    ],
+    "sweetie": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.04306464778702207
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.04963083767440436
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.0744287826805436
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.03899828282238034
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.05138939666616984
+        }
+    ],
+    "head": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.04306464778702207
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.04963083767440436
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.0744287826805436
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.03899828282238034
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.05138939666616984
+        }
+    ],
+    "chin": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.04306464778702207
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.04963083767440436
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.0744287826805436
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.03899828282238034
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.05138939666616984
+        }
+    ],
+    "importantly": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.04306464778702207
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.04963083767440436
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.0744287826805436
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.03899828282238034
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.05138939666616984
+        }
+    ],
+    "smiling": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.04306464778702207
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.04963083767440436
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.0744287826805436
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.07799656564476068
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.05138939666616984
+        }
+    ],
+    "beautiful": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.040117846536411705
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.04623472921785617
+        },
+        {
+            "doc_id": "downloaded_page_4.html",
+            "tfidf": 0.09726725816865475
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.06933581568429363
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.036329732294323326
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.047872954615769105
+        }
+    ],
+    "smile": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.08612929557404414
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.04963083767440436
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.0744287826805436
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.07799656564476068
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.05138939666616984
+        }
+    ],
+    "heartbreak": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.04306464778702207
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.04963083767440436
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.0744287826805436
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.03899828282238034
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.05138939666616984
+        }
+    ],
+    "takes": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.056315104942449526
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.09732959452316059
+        }
+    ],
+    "great": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.04306464778702207
+        },
+        {
+            "doc_id": "downloaded_page_16.html",
+            "tfidf": 0.2552301864462182
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.04963083767440436
+        },
+        {
+            "doc_id": "downloaded_page_4.html",
+            "tfidf": 0.10441189086359977
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.0744287826805436
+        }
+    ],
+    "deal": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.056315104942449526
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.09732959452316059
+        }
+    ],
+    "bravery": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.056315104942449526
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.09732959452316059
+        }
+    ],
+    "stand": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.11263020988489905
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.19465918904632118
+        }
+    ],
+    "enemies": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.056315104942449526
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.09732959452316059
+        }
+    ],
+    "courage": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.056315104942449526
+        },
+        {
+            "doc_id": "downloaded_page_5.html",
+            "tfidf": 0.09732959452316059
+        }
+    ],
+    "explain": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.0640661254957869
+        }
+    ],
+    "year": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.0640661254957869
+        }
+    ],
+    "old": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.056315104942449526
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.06720127563789466
+        }
+    ],
+    "understand": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.1281322509915738
+        }
+    ],
+    "simplicity": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.0640661254957869
+        }
+    ],
+    "loves": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.056315104942449526
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.05099756999242238
+        }
+    ],
+    "matters": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.056315104942449526
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.05099756999242238
+        }
+    ],
+    "perfect": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.11263020988489905
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.10199513998484476
+        }
+    ],
+    "aren": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.056315104942449526
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.05099756999242238
+        }
+    ],
+    "laugh": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.056315104942449526
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.10199513998484476
+        }
+    ],
+    "cause": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.056315104942449526
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.05099756999242238
+        }
+    ],
+    "twice": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.056315104942449526
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.05099756999242238
+        }
+    ],
+    "admit": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.056315104942449526
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.05099756999242238
+        }
+    ],
+    "human": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.056315104942449526
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.05099756999242238
+        }
+    ],
+    "making": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.10163133668071891
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.04601741585223942
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.06063875293057026
+        }
+    ],
+    "mistakes": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.056315104942449526
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.05099756999242238
+        }
+    ],
+    "second": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.056315104942449526
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.05099756999242238
+        }
+    ],
+    "knows": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.056315104942449526
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.05099756999242238
+        }
+    ],
+    "analyze": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.056315104942449526
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.05099756999242238
+        }
+    ],
+    "expect": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.056315104942449526
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.05099756999242238
+        }
+    ],
+    "happy": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.056315104942449526
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.05099756999242238
+        }
+    ],
+    "mad": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.056315104942449526
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.05099756999242238
+        }
+    ],
+    "miss": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.056315104942449526
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.05099756999242238
+        }
+    ],
+    "bob": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.05081566834035946
+        },
+        {
+            "doc_id": "downloaded_page_6.html",
+            "tfidf": 0.1039726747120477
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.04601741585223942
+        }
+    ],
+    "marley": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.05081566834035946
+        },
+        {
+            "doc_id": "downloaded_page_6.html",
+            "tfidf": 0.1039726747120477
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.04601741585223942
+        }
+    ],
+    "nonsense": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.056315104942449526
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.06720127563789466
+        }
+    ],
+    "wakes": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.0640661254957869
+        }
+    ],
+    "brain": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.0640661254957869
+        }
+    ],
+    "cells": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.0640661254957869
+        }
+    ],
+    "fantasy": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.1281322509915738
+        }
+    ],
+    "ingredient": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.0640661254957869
+        }
+    ],
+    "living": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.0640661254957869
+        }
+    ],
+    "gone": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.056315104942449526
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.06720127563789466
+        }
+    ],
+    "intended": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.056315104942449526
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.06720127563789466
+        }
+    ],
+    "ended": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.056315104942449526
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.06720127563789466
+        }
+    ],
+    "needed": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.056315104942449526
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.06720127563789466
+        }
+    ],
+    "douglas": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.056315104942449526
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.06720127563789466
+        }
+    ],
+    "adams": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.056315104942449526
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.06720127563789466
+        }
+    ],
+    "navigation": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.056315104942449526
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.06720127563789466
+        }
+    ],
+    "opposite": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.2540783417017973
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.2928183923841105
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.2300870792611971
+        }
+    ],
+    "indifference": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.2540783417017973
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.2928183923841105
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.2300870792611971
+        }
+    ],
+    "art": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.05081566834035946
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.0585636784768221
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.04601741585223942
+        }
+    ],
+    "ugliness": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.05081566834035946
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.0585636784768221
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.04601741585223942
+        }
+    ],
+    "faith": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.05081566834035946
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.0585636784768221
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.04601741585223942
+        }
+    ],
+    "heresy": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.05081566834035946
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.0585636784768221
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.04601741585223942
+        }
+    ],
+    "death": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.05081566834035946
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.1756910354304663
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.04601741585223942
+        }
+    ],
+    "elie": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.05081566834035946
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.0585636784768221
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.04601741585223942
+        }
+    ],
+    "wiesel": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.05081566834035946
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.0585636784768221
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.04601741585223942
+        }
+    ],
+    "activism": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.05081566834035946
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.0585636784768221
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.04601741585223942
+        }
+    ],
+    "apathy": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.05081566834035946
+        },
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.0585636784768221
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.04601741585223942
+        }
+    ],
+    "lack": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.20326267336143783
+        },
+        {
+            "doc_id": "downloaded_page_6.html",
+            "tfidf": 0.4158906988481908
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.18406966340895767
+        }
+    ],
+    "unhappy": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.10163133668071891
+        },
+        {
+            "doc_id": "downloaded_page_6.html",
+            "tfidf": 0.2079453494240954
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.09203483170447883
+        }
+    ],
+    "marriages": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.05081566834035946
+        },
+        {
+            "doc_id": "downloaded_page_6.html",
+            "tfidf": 0.1039726747120477
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.04601741585223942
+        }
+    ],
+    "friedrich": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.05081566834035946
+        },
+        {
+            "doc_id": "downloaded_page_6.html",
+            "tfidf": 0.1039726747120477
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.04601741585223942
+        }
+    ],
+    "nietzsche": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.05081566834035946
+        },
+        {
+            "doc_id": "downloaded_page_6.html",
+            "tfidf": 0.1039726747120477
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.04601741585223942
+        }
+    ],
+    "marriage": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.10163133668071891
+        },
+        {
+            "doc_id": "downloaded_page_6.html",
+            "tfidf": 0.2079453494240954
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.09203483170447883
+        }
+    ],
+    "happens": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.056315104942449526
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.06720127563789466
+        }
+    ],
+    "plans": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.11263020988489905
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.13440255127578932
+        }
+    ],
+    "allen": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.056315104942449526
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.06720127563789466
+        }
+    ],
+    "saunders": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.056315104942449526
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.06720127563789466
+        }
+    ],
+    "fate": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.056315104942449526
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.06720127563789466
+        }
+    ],
+    "john": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.056315104942449526
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.06720127563789466
+        }
+    ],
+    "lennon": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.056315104942449526
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.06720127563789466
+        }
+    ],
+    "planning": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.056315104942449526
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.06720127563789466
+        }
+    ],
+    "previous": [
+        {
+            "doc_id": "downloaded_page_14.html",
+            "tfidf": 0.0640661254957869
+        }
+    ],
+    "small": [
+        {
+            "doc_id": "downloaded_page_16.html",
+            "tfidf": 0.18984956333608063
+        }
+    ],
+    "mother": [
+        {
+            "doc_id": "downloaded_page_16.html",
+            "tfidf": 0.37969912667216127
+        }
+    ],
+    "teresa": [
+        {
+            "doc_id": "downloaded_page_16.html",
+            "tfidf": 0.37969912667216127
+        }
+    ],
+    "organized": [
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.07383447069240019
+        }
+    ],
+    "adventure": [
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.07383447069240019
+        }
+    ],
+    "late": [
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.07383447069240019
+        }
+    ],
+    "eliot": [
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.07383447069240019
+        }
+    ],
+    "darkness": [
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.07383447069240019
+        }
+    ],
+    "stars": [
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.07383447069240019
+        }
+    ],
+    "luther": [
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.07383447069240019
+        }
+    ],
+    "king": [
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.07383447069240019
+        }
+    ],
+    "jr": [
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.07383447069240019
+        }
+    ],
+    "hope": [
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.07383447069240019
+        }
+    ],
+    "door": [
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.14766894138480038
+        }
+    ],
+    "happiness": [
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.07383447069240019
+        }
+    ],
+    "closes": [
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.07383447069240019
+        }
+    ],
+    "opens": [
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.07383447069240019
+        }
+    ],
+    "look": [
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.07383447069240019
+        }
+    ],
+    "closed": [
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.07383447069240019
+        }
+    ],
+    "opened": [
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.07383447069240019
+        }
+    ],
+    "helen": [
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.07383447069240019
+        }
+    ],
+    "keller": [
+        {
+            "doc_id": "downloaded_page_3.html",
+            "tfidf": 0.07383447069240019
+        }
+    ],
+    "lie": [
+        {
+            "doc_id": "downloaded_page_4.html",
+            "tfidf": 0.1553307793529815
+        }
+    ],
+    "travel": [
+        {
+            "doc_id": "downloaded_page_4.html",
+            "tfidf": 0.1553307793529815
+        }
+    ],
+    "way": [
+        {
+            "doc_id": "downloaded_page_4.html",
+            "tfidf": 0.1365381326303379
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.15299270997726713
+        }
+    ],
+    "putting": [
+        {
+            "doc_id": "downloaded_page_4.html",
+            "tfidf": 0.1553307793529815
+        }
+    ],
+    "shoes": [
+        {
+            "doc_id": "downloaded_page_4.html",
+            "tfidf": 0.1553307793529815
+        }
+    ],
+    "dumbledore": [
+        {
+            "doc_id": "downloaded_page_4.html",
+            "tfidf": 0.1553307793529815
+        }
+    ],
+    "sighed": [
+        {
+            "doc_id": "downloaded_page_4.html",
+            "tfidf": 0.1553307793529815
+        }
+    ],
+    "terrible": [
+        {
+            "doc_id": "downloaded_page_4.html",
+            "tfidf": 0.1553307793529815
+        }
+    ],
+    "treated": [
+        {
+            "doc_id": "downloaded_page_4.html",
+            "tfidf": 0.1553307793529815
+        }
+    ],
+    "caution": [
+        {
+            "doc_id": "downloaded_page_4.html",
+            "tfidf": 0.1553307793529815
+        }
+    ],
+    "tell": [
+        {
+            "doc_id": "downloaded_page_4.html",
+            "tfidf": 0.1553307793529815
+        }
+    ],
+    "worthy": [
+        {
+            "doc_id": "downloaded_page_4.html",
+            "tfidf": 0.1553307793529815
+        }
+    ],
+    "got": [
+        {
+            "doc_id": "downloaded_page_6.html",
+            "tfidf": 0.13108410543021815
+        }
+    ],
+    "worth": [
+        {
+            "doc_id": "downloaded_page_6.html",
+            "tfidf": 0.13108410543021815
+        }
+    ],
+    "suffering": [
+        {
+            "doc_id": "downloaded_page_6.html",
+            "tfidf": 0.13108410543021815
+        }
+    ],
+    "notion": [
+        {
+            "doc_id": "downloaded_page_6.html",
+            "tfidf": 0.11522493511918878
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.05099756999242238
+        }
+    ],
+    "loving": [
+        {
+            "doc_id": "downloaded_page_6.html",
+            "tfidf": 0.11522493511918878
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.10199513998484476
+        }
+    ],
+    "halves": [
+        {
+            "doc_id": "downloaded_page_6.html",
+            "tfidf": 0.11522493511918878
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.05099756999242238
+        }
+    ],
+    "nature": [
+        {
+            "doc_id": "downloaded_page_6.html",
+            "tfidf": 0.11522493511918878
+        },
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.05099756999242238
+        }
+    ],
+    "flower": [
+        {
+            "doc_id": "downloaded_page_6.html",
+            "tfidf": 0.13108410543021815
+        }
+    ],
+    "walk": [
+        {
+            "doc_id": "downloaded_page_6.html",
+            "tfidf": 0.13108410543021815
+        }
+    ],
+    "garden": [
+        {
+            "doc_id": "downloaded_page_6.html",
+            "tfidf": 0.13108410543021815
+        }
+    ],
+    "forever": [
+        {
+            "doc_id": "downloaded_page_6.html",
+            "tfidf": 0.13108410543021815
+        }
+    ],
+    "alfred": [
+        {
+            "doc_id": "downloaded_page_6.html",
+            "tfidf": 0.13108410543021815
+        }
+    ],
+    "tennyson": [
+        {
+            "doc_id": "downloaded_page_6.html",
+            "tfidf": 0.13108410543021815
+        }
+    ],
+    "knowing": [
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.05801670302228145
+        }
+    ],
+    "simply": [
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.05801670302228145
+        }
+    ],
+    "problems": [
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.05801670302228145
+        }
+    ],
+    "pride": [
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.05801670302228145
+        }
+    ],
+    "intimate": [
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.1160334060445629
+        }
+    ],
+    "hand": [
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.1160334060445629
+        }
+    ],
+    "chest": [
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.05801670302228145
+        }
+    ],
+    "fall": [
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.05801670302228145
+        }
+    ],
+    "asleep": [
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.05801670302228145
+        }
+    ],
+    "eyes": [
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.1160334060445629
+        }
+    ],
+    "close": [
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.05801670302228145
+        }
+    ],
+    "pablo": [
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.05801670302228145
+        }
+    ],
+    "neruda": [
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.05801670302228145
+        }
+    ],
+    "poetry": [
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.05801670302228145
+        }
+    ],
+    "real": [
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.05801670302228145
+        }
+    ],
+    "lover": [
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.05801670302228145
+        }
+    ],
+    "thrill": [
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.05801670302228145
+        }
+    ],
+    "kissing": [
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.05801670302228145
+        }
+    ],
+    "forehead": [
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.05801670302228145
+        }
+    ],
+    "staring": [
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.05801670302228145
+        }
+    ],
+    "space": [
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.05801670302228145
+        }
+    ],
+    "does": [
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.1160334060445629
+        }
+    ],
+    "begin": [
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.05099756999242238
+        },
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.06720127563789466
+        }
+    ],
+    "end": [
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.05801670302228145
+        }
+    ],
+    "battle": [
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.05801670302228145
+        }
+    ],
+    "war": [
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.05801670302228145
+        }
+    ],
+    "growing": [
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.05801670302228145
+        }
+    ],
+    "james": [
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.05801670302228145
+        }
+    ],
+    "baldwin": [
+        {
+            "doc_id": "downloaded_page_7.html",
+            "tfidf": 0.05801670302228145
+        }
+    ],
+    "today": [
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.07645063190229506
+        }
+    ],
+    "truer": [
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.07645063190229506
+        }
+    ],
+    "alive": [
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.07645063190229506
+        }
+    ],
+    "youer": [
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.07645063190229506
+        }
+    ],
+    "comedy": [
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.07645063190229506
+        }
+    ],
+    "isn": [
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.07645063190229506
+        }
+    ],
+    "finding": [
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.07645063190229506
+        }
+    ],
+    "creating": [
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.07645063190229506
+        }
+    ],
+    "bernard": [
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.07645063190229506
+        }
+    ],
+    "shaw": [
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.07645063190229506
+        }
+    ],
+    "finish": [
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.07645063190229506
+        }
+    ],
+    "blunders": [
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.07645063190229506
+        }
+    ],
+    "absurdities": [
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.07645063190229506
+        }
+    ],
+    "doubt": [
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.07645063190229506
+        }
+    ],
+    "crept": [
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.07645063190229506
+        }
+    ],
+    "forget": [
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.07645063190229506
+        }
+    ],
+    "soon": [
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.07645063190229506
+        }
+    ],
+    "tomorrow": [
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.07645063190229506
+        }
+    ],
+    "new": [
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.07645063190229506
+        }
+    ],
+    "serenely": [
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.07645063190229506
+        }
+    ],
+    "spirit": [
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.07645063190229506
+        }
+    ],
+    "encumbered": [
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.07645063190229506
+        }
+    ],
+    "ralph": [
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.07645063190229506
+        }
+    ],
+    "waldo": [
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.07645063190229506
+        }
+    ],
+    "emerson": [
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.07645063190229506
+        }
+    ],
+    "regrets": [
+        {
+            "doc_id": "downloaded_page_8.html",
+            "tfidf": 0.07645063190229506
+        }
+    ],
+    "learn": [
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.09835147715079039
+        }
+    ],
+    "places": [
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.09835147715079039
+        }
+    ],
+    "learning": [
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.09835147715079039
+        }
+    ],
+    "william": [
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.09835147715079039
+        }
+    ],
+    "nicholson": [
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.09835147715079039
+        }
+    ],
+    "reader": [
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.09835147715079039
+        }
+    ],
+    "thousand": [
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.09835147715079039
+        }
+    ],
+    "dies": [
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.09835147715079039
+        }
+    ],
+    "said": [
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.09835147715079039
+        }
+    ],
+    "jojen": [
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.09835147715079039
+        }
+    ],
+    "reads": [
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.09835147715079039
+        }
+    ],
+    "readers": [
+        {
+            "doc_id": "downloaded_page_9.html",
+            "tfidf": 0.09835147715079039
+        }
+    ]
+}
